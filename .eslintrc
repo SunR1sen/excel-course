@@ -8,7 +8,7 @@
 	"rules": {
 		"semi": "off",
 		"linebreak-style": 0,
-		"global-require": 0,
+		"global-require": 1,
 		"eslint linebreak-style": [0, "error", "windows"],
 		"arrow-parens":"off",
 		"require-jsdoc":"off",
