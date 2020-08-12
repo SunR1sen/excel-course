@@ -13,7 +13,8 @@
 		"arrow-parens":"off",
 		"require-jsdoc":"off",
 		"indent":"off",
-		"no-tabs":"off"
+		"no-tabs":"off",
+		"operator-linebreak":"off"
 	},
 	"extends": ["eslint:recommended", "google"]
 }
